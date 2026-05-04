@@ -28,6 +28,10 @@ This repository contains a comprehensive, interactive Power BI dashboard designe
 * **Power BI Desktop** – Data modeling, DAX, and interactive visualizations.
 * **Microsoft Excel** – Primary data source.
 
+## 🚀 How to View the Dashboard
+1. Download the `.pbix` file from this repository.
+2. Open it with **Microsoft Power BI Desktop**.
+
 ## 👤 Author
 
 Fatima Chalabi
